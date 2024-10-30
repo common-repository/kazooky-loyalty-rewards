@@ -1,0 +1,164 @@
+.span6 {
+    width: 570px;
+}
+ 
+[class*="span"] {
+    float: left;
+    margin-left: 30px;
+}
+ 
+.span6 {
+    width: 95%;
+}
+ 
+[class*="span"] {
+    float: left;
+    margin-left: 20px;
+}
+.well {
+    border-radius: 15px 15px 15px 15px;
+}
+ 
+.well {
+    background-color: #E2E1E1;
+    border: 1px solid #E3E3E3;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 19px;
+     width: 765px;
+}
+h4 {
+    font-size: 18px;
+    line-height: 20px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: inherit;
+    font-family: inherit;
+    font-weight: bold;
+    line-height: 1;
+    margin: 10px 0;
+    text-rendering: optimizelegibility;
+}
+.form-search input, .form-inline input, .form-horizontal input, .form-search textarea, .form-inline textarea, .form-horizontal textarea, .form-search select, .form-inline select, .form-horizontal select, .form-search .help-inline, .form-inline .help-inline, .form-horizontal .help-inline, .form-search .uneditable-input, .form-inline .uneditable-input, .form-horizontal .uneditable-input, .form-search .input-prepend, .form-inline .input-prepend, .form-horizontal .input-prepend, .form-search .input-append, .form-inline .input-append, .form-horizontal .input-append {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+    -moz-transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    padding-right: 15px;
+}
+.form-horizontal .controls {
+    margin-left: 160px;
+}
+
+.form-horizontal .control-label {
+    float: left;
+    padding-top: 5px;
+    text-align: right;
+    width: 140px;
+}
+ 
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+ 
+label, input, button, select, textarea {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+}
+.form-horizontal .control-group {
+    margin-bottom: 20px;
+}
+.form-horizontal .control-label {
+    float: left;
+    padding-top: 5px;
+    text-align: right;
+    width: 140px;
+}
+.input-prepend .add-on:first-child, .input-prepend .btn:first-child {
+    border-radius: 3px 0 0 3px;
+}
+ 
+.input-prepend .add-on, .input-prepend .btn {
+    margin-right: -1px;
+}
+ 
+.input-append .add-on, .input-prepend .add-on, .input-append .btn, .input-prepend .btn {
+    border-radius: 0 0 0 0;
+    margin-left: -1px;
+    vertical-align: top;
+}
+ 
+.input-append .add-on, .input-prepend .add-on {
+    background-color: #EEEEEE;
+    border: 1px solid #CCCCCC;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    height: 20px;
+    line-height: 20px;
+    min-width: 16px;
+    padding: 4px 5px;
+    text-align: center;
+    text-shadow: 0 1px 0 #FFFFFF;
+    width: auto;
+}
+.btn-warning {
+    background-color: #F3A36F;
+    background-image: -moz-linear-gradient(center top , #F5B58B, #EF8845);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+.error{
+	color:#ff0000;
+	float:left;
+	width: 421px;
+}
+.save{
+	border-top: 1px solid #CCCCCC;
+    float: left;
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 800px;
+}
+button-primary {
+    background: url("../images/button-grad.png") repeat-x scroll left top #21759B;
+    border-color: #298CBA;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+.imgkazooky{
+	float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+}
+.form-horizontal{
+	float:left;
+	width: 465px;
+}
+.msgkazooky{
+	float:left;
+	background-color:#cccccc;
+	padding: 5px;
+	width: 265px;
+	background-color: #E2E1E1;
+    border: 1px solid #E3E3E3;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05) inset;
+}
+.kaz_privacy{
+float:left;
+}
